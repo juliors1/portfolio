@@ -1,1 +1,1 @@
-My Portfolio built using Gatsby# portfolio
+My Portfolio built using Gatsby
