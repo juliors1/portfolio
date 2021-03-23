@@ -1,7 +1,17 @@
 import * as React from "react"
-import "../styles/styles.scss"
+import "../style/styles.scss"
+import NavBar from "../components/NavBar"
 
-const IndexPage = () => <p>Home</p>
+const IndexPage = () => {
+  return (
+    <div className="container">
+    <NavBar/>
 
+    <p>Home</p>
+
+    </div>
+
+    )
+  }
 
 export default IndexPage
